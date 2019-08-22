@@ -1,8 +1,9 @@
 Kurt Tutorials/BattleTank/Content/StarterContent/
 
 Rusty Tutorials/Section_03/BuildingEscape/\.vs/BuildingEscape/v15/Browse\.VC\.db
-Rusty Tutorials/*/Build
-Rusty Tutorials/*/Binaries
-Rusty Tutorials/*/DerivedDataCache
-Rusty Tutorials/*/Intermediate
-Rusty Tutorials/*/Saved
+Rusty Tutorials/Section_03/BuildingEscape/Build
+Rusty Tutorials/Section_03/BuildingEscape/Binaries
+Rusty Tutorials/Section_03/BuildingEscape/DerivedDataCache
+Rusty Tutorials/Section_03/BuildingEscape/Intermediate
+Rusty Tutorials/Section_03/BuildingEscape/Saved
+Rusty Tutorials/Section_03/BuildingEscape/Content/StarterContent/
